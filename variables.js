@@ -1,18 +1,18 @@
-// let myName = "Adilet";
-// myName = "Askar Adilet";
-// console.log(myName);
+let myName = "Adilet";
+myName = "Askar Adilet";
+console.log(myName);
 
-// const count = 1;
-// console.log(count);
+const count = 1;
+console.log(count);
 
-// let undedinedVar = undefined;
-// console.log(undedinedVar);
+let undedinedVar = undefined;
+console.log(undedinedVar);
 
-// let nullVar = null;
-// console.log(nullVar);
+let nullVar = null;
+console.log(nullVar);
 
-// var myVar = 1;
-// console.log(myVar);
+var myVar = 1;
+console.log(myVar);
 
 // var uses function scope
 function func() {
