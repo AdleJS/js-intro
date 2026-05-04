@@ -17,3 +17,14 @@ const result = parseInt("hello");
 console.log(result, "type:", typeof result);
 console.log(NaN === NaN);
 console.log(isNaN(isNaN));
+
+//equality coercion
+console.log(1 == "1");
+console.log("" == false);
+console.log(1 === "1");
+console.log([] === false);
+console.log(1 != "1");
+console.log(1 !== "1");
+
+const someVar = null;
+console.log(someVar == undefined);
